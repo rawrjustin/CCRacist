@@ -13,4 +13,4 @@ the data file must be a file with surnames separated by `\n` (newlines)
 
 currently classifies: asians, blacks, whites, hispanics
 
-#Justin Huang#
+.Justin Huang.
