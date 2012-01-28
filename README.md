@@ -18,4 +18,6 @@ currently classifies:
 +		whites
 +		hispanics
 
-__Justin Huang__
+
+
+written by __Justin Huang__
