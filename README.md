@@ -1,7 +1,7 @@
 CCRacist
 =======
-Classify Race by Last Name
--------------------------
+**Classify Race by Last Name**
+
 
 written in python
 
@@ -12,9 +12,9 @@ call classifier.py with an argument to the location of the data file you want to
 the data file must be a file with surnames separated by `\n` (newlines)
 
 currently classifies: 
-*asians
-*blacks
-*whites
-*hispanics
+*	asians
+*	blacks
+*	whites
+*	hispanics
 
 __Justin Huang__
